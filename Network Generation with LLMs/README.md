@@ -1,8 +1,10 @@
-# IMPORTANTE
+# GUÍAS DE USO
+
+## IMPORTANTE
 
 Primeramente se ha de meter un token en el archivo `api-key.txt` para poder conectar con las APIs de los LLMs.
 
-## Generación de APIs:
+### Generación de APIs:
 - [ChatGPT](https://platform.openai.com/)
 - [Grok](https://console.x.ai/)
 - [Llama](https://console.llamaapi.com/)
