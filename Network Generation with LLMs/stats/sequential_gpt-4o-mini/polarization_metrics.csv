@@ -1,0 +1,12 @@
+graph_nr,metric_name,_metric_value,save_name
+0,polarization,0.6813478623721161,sequential_gpt-4o-mini
+1,polarization,0.7055931081601428,sequential_gpt-4o-mini
+2,polarization,0.6995703722630227,sequential_gpt-4o-mini
+3,polarization,0.7203747922821515,sequential_gpt-4o-mini
+4,polarization,0.6784864998345596,sequential_gpt-4o-mini
+5,polarization,0.6896392235352387,sequential_gpt-4o-mini
+6,polarization,0.707495163678539,sequential_gpt-4o-mini
+7,polarization,0.7166382317594764,sequential_gpt-4o-mini
+8,polarization,0.6894548311282841,sequential_gpt-4o-mini
+9,polarization,0.7329738070387956,sequential_gpt-4o-mini
+10,polarization,0.6871585528943704,sequential_gpt-4o-mini
