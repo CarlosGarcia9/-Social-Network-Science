@@ -51,3 +51,14 @@ Cambie el modelo (en este ejemplo, `gpt-4o-mini`) por el que usted desee.
 ### Para realizar y visualizar el análisis:
 Revisa el siguiente notebook:
 - `analyze_networks.ipynb`
+
+## Referencias
+- [LLMs Generate Structurally Realistic Social Networks but Overestimate Political Homophily](https://arxiv.org/abs/2401.02575)
+- [Trends in LLM-based Social Analysis](https://arxiv.org/abs/2408.16629)
+- [Language Models are Few-Shot Learners](https://arxiv.org/html/2402.10659v3)
+- [Evaluating the Social Bias In AI Systems](https://arxiv.org/abs/2305.18189)
+- [The Impact of Network Topologies in AI Models](https://arxiv.org/abs/2305.10037)
+- [Adaptive Simulations in Dynamic Networks](https://arxiv.org/abs/2303.17548)
+- [A Long-Term Analysis of Polarization on Twitter](https://www.researchgate.net/publication/314361332_A_Long-Term_Analysis_of_Polarization_on_Twitter)
+- [Large Language Model agents can coordinate beyond human scale](https://arxiv.org/abs/2409.02822)
+- [A Large-scale Empirical Study on Large Language Models for Election Prediction](https://arxiv.org/abs/2412.15291)
