@@ -33,7 +33,7 @@ Cambie el modelo (en este ejemplo, `gpt-4o-mini`) por el que usted desee.
 ⚠️ **WARNING** ⚠️  
 Dependiendo del número de redes a generar (e.g., 50) y del modelo a utilizar (e.g., GPT-3.5-turbo), el proceso de generación puede implicar:
 - **Lentitud**: El tiempo de ejecución puede variar desde unos pocos minutos hasta varias horas o incluso días.
-- **Coste**: Los gastos pueden oscilar entre unos pocos centavos de dólar hasta cientos de dólares, dependiendo del volumen de redes y del modelo seleccionado.  
+- **Coste**: Los gastos pueden oscilar entre unos centimos de dólar hasta cientos de dólares (sí, dólares, estas empresas de IA facturan en dólares, no en euros), dependiendo del volumen de redes y del modelo seleccionado.  
 
 Por favor, asegúrate de ajustar los parámetros con precaución y de considerar estos factores antes de ejecutar el proceso.
 
@@ -53,7 +53,8 @@ Revisa el siguiente notebook:
 - `analyze_networks.ipynb`
 
 ## Referencias
-- [LLMs Generate Structurally Realistic Social Networks but Overestimate Political Homophily](https://arxiv.org/abs/2401.02575)
+- [LLMs Generate Structurally Realistic Social Networks but Overestimate Political Homophily](https://arxiv.org/abs/2408.16629)
+- [Large Language Models for Social Networks: Applications, Challenges, and Solutions](https://arxiv.org/abs/2401.02575)
 - [Trends in LLM-based Social Analysis](https://arxiv.org/abs/2408.16629)
 - [Language Models are Few-Shot Learners](https://arxiv.org/html/2402.10659v3)
 - [Evaluating the Social Bias In AI Systems](https://arxiv.org/abs/2305.18189)
