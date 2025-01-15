@@ -2,9 +2,9 @@
 
 Este repositorio contiene materiales relacionados con el estudio de la dinámica social utilizando el modelo de Majority Rule (CMU) aplicado a redes complejas. A continuación, se describe la estructura de la carpeta y el contenido de cada subcarpeta.
 
-## Estructura de la Carpeta
+## Estructura:
 
-### i) Notebook
+### i) Notebooks
 Esta subcarpeta contiene los notebooks necesarios para la generación y simulación de redes:
 
 1. **Generación de redes "clásicas" con algoritmos estándar:**
