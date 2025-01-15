@@ -31,7 +31,7 @@ python generate_networks.py sequential --model gpt-4o-mini --num_networks 11
 Cambie el modelo (en este ejemplo, `gpt-4o-mini`) por el que usted desee.
 
 ⚠️ **WARNING** ⚠️  
-Dependiendo del número de redes a generar (e.g., 50) y del modelo a utilizar (e.g., GPT-3.5-turbo), el proceso de generación puede implicar:
+Dependiendo del número de redes a generar (e.g., 11) y del modelo a utilizar (e.g., gpt-4o-mini), el proceso de generación puede implicar:
 - **Lentitud**: El tiempo de ejecución puede variar desde unos pocos minutos hasta varias horas o incluso días.
 - **Coste**: Los gastos pueden oscilar entre unos centimos de dólar hasta cientos de dólares (sí, dólares, estas empresas de IA facturan en dólares, no en euros), dependiendo del volumen de redes y del modelo seleccionado.  
 
