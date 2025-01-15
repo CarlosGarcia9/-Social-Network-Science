@@ -1,4 +1,4 @@
-# -Social-Network-Science
+# (Social) Network Science
 El repo "(Social) Network Science" incluye el codigo usado para el TFM en IA de UNIR. 
 
 Este repositorio incluye:
